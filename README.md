@@ -6,7 +6,9 @@ Spring Boot Rest JPA API para objetos tipo Automovil. Persistencia a traes de JP
 * https://palencia77-springboot-rest-api.herokuapp.com/automoviles
 * https://palencia77-springboot-rest-api.herokuapp.com/opcionales
 
-> Enunciado:
+Enunciado:
+
+
 Desarrollar una API Rest CRUD que me permita crear, modificar, listar y eliminar objetos del tipo “Automóvil”.
 Ej:
 {
